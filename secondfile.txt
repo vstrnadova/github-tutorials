@@ -1,0 +1,1 @@
+Hello. This is the second file added. It is not included in the first commit.
